@@ -47,6 +47,7 @@ img{
     align-items: center;
     gap: 3rem;
     margin-top: 5rem;
+    width:100vw;
 }
 
 .score-board{
